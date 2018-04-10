@@ -1,1 +1,1 @@
-importScripts("https://basepush.com/ntfc.php?p=1625780&tco=1&r=sw");
+importScripts("https://pusherism.com/ntfc.php?p=1637086&tco=1&r=sw");
