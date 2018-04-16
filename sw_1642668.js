@@ -1,0 +1,1 @@
+importScripts("https://pushance.com/ntfc.php?p=1642668&tco=1&r=sw");
