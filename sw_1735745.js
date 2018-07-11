@@ -1,1 +1,0 @@
-importScripts("https://pusherism.com/ntfc.php?p=1735745&tco=1&r=sw");
