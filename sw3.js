@@ -1,1 +1,0 @@
-importScripts("https://basepush.com/ntfc.php?p=1815299&r=sw");
